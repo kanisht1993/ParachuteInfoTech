@@ -273,12 +273,23 @@ a.goto-btn { margin-right: 30px }
 }
 /* Intro Section */
 #tf-intro {
-    background-color: #e5b112;
+    background-color: #ffffff;
+    padding: 5% 0;
+    color: #ffffff;
+    text-align: center;
+	max-height:100px;
+}
+#tf-intro img.intro-logo {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#tf-introCustom {
+    background-color: #ffffff;
     padding: 5% 0;
     color: #ffffff;
     text-align: center;
 }
-#tf-intro img.intro-logo {
+#tf-introCusotm img.intro-logo {
     margin: 0 auto;
     margin-bottom: 30px;
 }
@@ -318,6 +329,12 @@ a.goto-btn { margin-right: 30px }
     margin-left: 10px;
 }
 /* service lists */
+.centerCustom {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
 .service { margin-bottom: 20px }
 .service .media-right i.fa {
     text-align: center;
