@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+f@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
 body,
 html {
     -webkit-font-smoothing: antialiased !important;
@@ -109,7 +109,7 @@ a:focus {
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: #cfcfcf;
-	max-height: 650px;
+	max-height: 580px;
 }
 #tf-home .overlay {
     background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
@@ -274,7 +274,7 @@ a.goto-btn { margin-right: 30px }
 /* Intro Section */
 #tf-intro {
     background-color: #ffffff;
-    padding: 5% 0;
+    padding: 0% 0;
     color: #ffffff;
     text-align: center;
 	max-height:100px;
